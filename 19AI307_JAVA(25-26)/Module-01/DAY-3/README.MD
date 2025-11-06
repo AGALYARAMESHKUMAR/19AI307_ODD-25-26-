@@ -1,6 +1,6 @@
 # Ex.No:1(C) LOOPING STATEMENT
 
-##QUESTION:
+## QUESTION:
 
 
 ## AIM:
@@ -37,3 +37,4 @@ RegisterNumber:
 
 
 ## RESULT:
+
