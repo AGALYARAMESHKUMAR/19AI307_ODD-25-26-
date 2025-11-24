@@ -59,22 +59,14 @@ To write a Java program that reads two integer numbers from the user and perform
    
 5.Display the results:
 
-      "Access with AND: " + l1
-
-      "Access with OR: " + l2
-
-       "Does NOT have key: " + l3
-
-      "Does NOT know password: " + l4
-
 6. Stop
 
 ## PROGRAM:
  ```
 
 Program to implement variables and Operators using Java
-Developed by: ARINI A
-RegisterNumber:  212222040011
+Developed by: AGALYA R
+RegisterNumber:  212222040003
 
 ```
 
@@ -103,6 +95,7 @@ public class Main{
 
 ## RESULT:
 The program has been executed successfully and the desired output has been obtained.
+
 
 
 
