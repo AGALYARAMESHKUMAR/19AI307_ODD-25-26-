@@ -15,9 +15,9 @@ To write a Java program to implement a class Dress with a parameterized construc
 5.Create a parameterized constructor that assigns values to these variables.
 6.Define a method to display the dress details.
 7.In the main() method:
-   ->Create an object of the Dress class using the constructor and pass values.
-   ->Call the display method to print details.
-8.Stop the program.
+8.Create an object of the Dress class using the constructor and pass values.
+9.Call the display method to print details.
+10.Stop the program.
 ```
 
 ## PROGRAM:
@@ -75,4 +75,5 @@ public class Main {
 
 ## RESULT:
 The program successfully demonstrates the use of a parameterized constructor to initialize and display dress details.
+
 
