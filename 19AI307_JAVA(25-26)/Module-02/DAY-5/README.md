@@ -20,7 +20,7 @@ To create an Employee class where the display() method returns the current objec
 
 6. In the main() method, read the employee name from the user.
 
-7.Create an Employee object and set the name.
+  7.Create an Employee object and set the name.
 
 8. Call both display().printName() and show() to demonstrate method chaining.
 
@@ -77,6 +77,7 @@ class prog {
 
 ## RESULT:
 The program has been executed successfully and the desired output has been obtained.
+
 
 
 
