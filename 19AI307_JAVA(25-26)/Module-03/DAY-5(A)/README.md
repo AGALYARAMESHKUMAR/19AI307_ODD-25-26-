@@ -10,14 +10,22 @@ To write a Java program that defines an enum named Department with constants CS,
 ## ALGORITHM :
 ```
 1.	Start the program.
+
 2.	Import the necessary package 'java.util'
+
 3.	Create an enum named Department.
-4.Add constants: CS, IT, ECE.
-5.Assign each constant a full-form string using a parameterized constructor inside the enum.
-6.Store the full-form string in a variable.
-7.Provide a getter method to return the string.
-8.Display the full form of each department using values().
-9.End the program.
+
+4. Add constants: CS, IT, ECE.
+
+5. Assign each constant a full-form string using a parameterized constructor inside the enum.
+
+6. Store the full-form string in a variable.
+
+7. Provide a getter method to return the string.
+
+8. Display the full form of each department using values().
+
+9. End the program.
 ```
 
 
@@ -80,4 +88,5 @@ public class Main {
 ## RESULT:
 
 The program successfully defines an enum Department with constants that store their full-form names using a constructor and displays their values.
+
 
