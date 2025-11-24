@@ -6,15 +6,15 @@ To write a Java program that reads a file and counts the total number of charact
 
 ## ALGORITHM :
 ```
-1.Start the program.
-2.Import the necessary package 'java.util'
-3.Open a text file using FileReader (e.g., "sample.txt").
-4.Initialize a counter variable to zero.
-5.Read characters one by one using read() method.
-6.For each character read, increment the counter.
-7.Stop when read() returns -1 (end of file).
-8.Display the total count of characters.
-9.Close the file and end the program.
+1. Start the program.
+2. Import the necessary package 'java.util'
+3. Open a text file using FileReader (e.g., "sample.txt").
+4. Initialize a counter variable to zero.
+5. Read characters one by one using read() method.
+6. For each character read, increment the counter.
+7. Stop when read() returns -1 (end of file).
+8. Display the total count of characters.
+9. Close the file and end the program.
 
 ```
 
@@ -68,4 +68,5 @@ public class Main {
 
 ## RESULT:
 The program successfully reads a text file using FileReader and counts the number of characters by reading each character one by one until the end of the file.
+
 
