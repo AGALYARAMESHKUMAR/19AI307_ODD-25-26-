@@ -13,11 +13,13 @@ To write a Java program to reverse a given number using a while loop.
 3.	Read an integer number from the user.
 4.Initialize rev = 0.
 5.Repeat using a while loop until the number becomes 0:
+
   ->Extract the last digit using num % 10.
 
   ->Multiply rev by 10 and add the digit.
 
   ->Divide the number by 10 (num = num / 10).
+
 6.Print the reversed number.
 7.Stop the program.
 ```
@@ -59,4 +61,5 @@ public class ReverseNumber {
 
 ## RESULT:
 The program successfully reverses the given number using a while loop and displays the reversed value.
+
 
