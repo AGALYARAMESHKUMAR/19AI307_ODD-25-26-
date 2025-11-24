@@ -18,6 +18,8 @@ Prediction as a string.
 
 ## AIM:
 
+To define a common interface for weather analysis bots that ensures consistent prediction behavior.
+To implement multiple bot classes that analyze weather data and provide predictions using the interface.
 
 ## ALGORITHM :
 ```
@@ -105,4 +107,5 @@ public class Main {
 
 ## RESULT:
 The program successfully uses an interface to generate weather predictions using SunBot and RainBot based on temperature.
+
 
