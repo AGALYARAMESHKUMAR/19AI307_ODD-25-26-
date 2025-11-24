@@ -23,7 +23,7 @@ RegisterNumber: Agalya R
 ```
 
 ## SOURCE CODE:
-
+```
 import java.util.Scanner;
 public class AverageOfArray {
     public static void main(String[] args) {
@@ -41,10 +41,11 @@ public class AverageOfArray {
         System.out.printf("The average of elements is %.2f\n", average);
     }
 }
-
+```
 ## OUTPUT:
 <img width="1326" height="509" alt="Screenshot 2025-11-24 212833" src="https://github.com/user-attachments/assets/4fe3242a-fdcd-4c3c-832d-5597a623c682" />
 
 
 ## RESULT:
 The program successfully calculates and prints the average value of the elements present in the array.
+
